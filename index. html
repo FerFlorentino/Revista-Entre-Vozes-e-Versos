@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Entre Vozes e Versos</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <main class="capa">
+
+        <div class="conteudo-capa">
+
+            <p class="edicao">EDIÇÃO ESPECIAL • 2026</p>
+
+            <h1>
+                ENTRE<br>
+                <span>VOZES</span><br>
+                E VERSOS
+            </h1>
+
+            <p class="subtitulo">
+                Uma revista de saberes, histórias,
+                homenagens e poesia
+            </p>
+
+            <button onclick="entrarNaRevista()">
+                ENTRAR NA REVISTA
+            </button>
+
+        </div>
+
+    </main>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
