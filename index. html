@@ -1,40 +1,12 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <title>Entre Vozes e Versos</title>
-
-    <link rel="stylesheet" href="style.css">
+    <title>Minha página</title>
 </head>
 
 <body>
-
-    <main class="capa">
-
-        <div class="conteudo-capa">
-
-            <p class="edicao">EDIÇÃO ESPECIAL • 2026</p>
-
-            <h1>
-                ENTRE VOZES E VERSOS
-            </h1>
-
-            <p class="subtitulo">
-                Uma revista de saberes, histórias,
-                homenagens e poesia
-            </p>
-
-            <button onclick="entrarNaRevista()">
-                ENTRAR NA REVISTA
-            </button>
-
-        </div>
-
-    </main>
-
-    <script src="script.js"></script>
-
+    <h1>Olá, mundo!</h1>
+    <p>Esta é minha primeira página HTML.</p>
 </body>
+
 </html>
