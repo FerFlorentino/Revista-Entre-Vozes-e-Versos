@@ -1,12 +1,145 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
+
 <head>
-    <title>Minha página</title>
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Entre Vozes e Versos</title>
+
+    <link rel="stylesheet" href="estilo.css">
 </head>
 
 <body>
-    <h1>Olá, mundo!</h1>
-    <p>Esta é minha primeira página HTML.</p>
+
+    <header>
+        <h1>ENTRE VOZES E VERSOS</h1>
+
+        <p>Revista dos alunos do 2º ano para o IFA</p>
+
+        <span>EDIÇÃO 2026</span>
+    </header>
+
+
+    <nav>
+        <a href="#apresentacao">Apresentação</a>
+        <a href="#vozes">Vozes que Inspiram</a>
+        <a href="#historia">Nossa História</a>
+        <a href="#literatura">Literatura</a>
+        <a href="#galeria">Galeria</a>
+        <a href="#expediente">Expediente</a>
+    </nav>
+
+
+    <main>
+
+        <section id="apresentacao">
+
+            <h2>Apresentação</h2>
+
+            <p>
+                A revista <strong>Entre Vozes e Versos</strong> foi construída
+                pelos alunos do 2º ano C, na disciplina de Literatura,
+                dentro do Itinerário Formativo de Aprofundamento (IFA).
+            </p>
+
+            <p>
+                Este espaço reúne diferentes produções dos estudantes,
+                apresentando textos, homenagens, reportagens, cartas e
+                poemas relacionados a personalidades importantes da nossa
+                história e da literatura.
+            </p>
+
+            <p>
+                <strong>Produção:</strong> Alunos do 2º ano C
+            </p>
+
+            <p>
+                <strong>Escola:</strong> Colégio Estadual José Luiz Gori
+            </p>
+
+        </section>
+
+
+        <section id="vozes">
+
+            <h2>Vozes que Inspiram</h2>
+
+            <p>
+                Conheça personalidades que marcaram a história,
+                a literatura, a cultura e a sociedade brasileira.
+            </p>
+
+        </section>
+
+
+        <section id="historia">
+
+            <h2>Nossa História</h2>
+
+            <p>
+                Nesta seção estão reunidas as produções realizadas
+                pelos alunos.
+            </p>
+
+        </section>
+
+
+        <section id="literatura">
+
+            <h2>Literatura</h2>
+
+            <p>
+                Poemas, cartas, classificados e reportagens produzidos
+                pelos estudantes.
+            </p>
+
+        </section>
+
+
+        <section id="galeria">
+
+            <h2>Galeria</h2>
+
+            <p>
+                Fotos, ilustrações e trabalhos dos alunos.
+            </p>
+
+        </section>
+
+
+        <section id="expediente">
+
+            <h2>Expediente</h2>
+
+            <p>
+                <strong>Professora:</strong> Fernanda Florentino
+            </p>
+
+            <p>
+                <strong>Alunos:</strong> 2º ano C
+            </p>
+
+            <p>
+                <strong>Escola:</strong> Colégio Estadual José Luiz Gori
+            </p>
+
+            <p>
+                <strong>Ano:</strong> 2026
+            </p>
+
+        </section>
+
+    </main>
+
+
+    <footer>
+
+        <p>Entre Vozes e Versos — 2026</p>
+
+    </footer>
+
 </body>
 
 </html>
